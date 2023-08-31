@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Schlafen -->
+    <integer name="schlafenzeit">6</integer>
+    <!-- Pflege -->
+    <integer name="maxpflege">5000</integer>
+    <!-- Pflege 0 Evo-->
+    <integer name="pflege_0_x_min">330</integer>
+    <integer name="pflege_0_y_min">800</integer>
+    <integer name="pflege_0_x_max">430</integer>
+    <integer name="pflege_0_y_max">910</integer>
+    <!-- Pflege 1 Evo-->
+    <integer name="pflege_1_x_min">340</integer>
+    <integer name="pflege_1_y_min">825</integer>
+    <integer name="pflege_1_x_max">440</integer>
+    <integer name="pflege_1_y_max">906</integer>
+    <!-- Pflege 2 Evo-->
+    <integer name="pflege_2_x_min">320</integer>
+    <integer name="pflege_2_y_min">830</integer>
+    <integer name="pflege_2_x_max">460</integer>
+    <integer name="pflege_2_y_max">890</integer>
+    <!-- Pflege 3 Evo-->
+    <integer name="pflege_3_x_min">315</integer>
+    <integer name="pflege_3_y_min">800</integer>
+    <integer name="pflege_3_x_max">460</integer>
+    <integer name="pflege_3_y_max">900</integer>
+
+    <!-- Essen 0 Evo-->
+    <integer name="essen_0_x_min">333</integer>
+    <integer name="essen_0_y_min">724</integer>
+    <integer name="essen_0_x_max">400</integer>
+    <integer name="essen_0_y_max">814</integer>
+    <!-- Essen 1 Evo-->
+    <integer name="essen_1_x_min">320</integer>
+    <integer name="essen_1_y_min">740</integer>
+    <integer name="essen_1_x_max">418</integer>
+    <integer name="essen_1_y_max">817</integer>
+    <!-- Essen 2 Evo-->
+    <integer name="essen_2_x_min">300</integer>
+    <integer name="essen_2_y_min">750</integer>
+    <integer name="essen_2_x_max">432</integer>
+    <integer name="essen_2_y_max">800</integer>
+    <!-- Essen 3 Evo-->
+    <integer name="essen_3_x_min">298</integer>
+    <integer name="essen_3_y_min">725</integer>
+    <integer name="essen_3_x_max">435</integer>
+    <integer name="essen_3_y_max">812</integer>
+    <!-- Evolutionsstufen Upgrade -->
+    <integer name="upgrade_evostufe1">12</integer>
+    <integer name="upgrade_evostufe2">13</integer>
+    <integer name="upgrade_evostufe3">14</integer>
+    <!-- Sontiges -->
+    <integer name="name_upgrade">10</integer>
+    <integer name="start_maxhunger">100</integer>
+    <integer name="start_maxenergie">100</integer>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Pigotchi.iml" filepath="$PROJECT_DIR$/Pigotchi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Pigotchi.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Pigotchi.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/tamagotchi-projekt.iml" filepath="$PROJECT_DIR$/.idea/tamagotchi-projekt.iml" />
+    </modules>
+  </component>
+</project>

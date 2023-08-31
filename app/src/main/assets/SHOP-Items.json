@@ -1,0 +1,145 @@
+{
+  "title": "ESSENS SHOP",
+  "essen": [
+    {
+      "name": "Apfel",
+      "punkte": 4,
+      "energie": 10,
+      "hunger": 5,
+      "level": 1
+    },
+    {
+      "name": "Birne",
+      "punkte": 2,
+      "energie": 8,
+      "hunger": 4,
+      "level": 1
+    },
+    {
+      "name": "Banane",
+      "punkte": 5,
+      "energie": 10,
+      "hunger": 5,
+      "level": 1
+    },
+    {
+      "name": "Erdbeere",
+      "punkte": 4,
+      "energie": 8,
+      "hunger": 4,
+      "level": 1
+    },
+    {
+      "name": "Broccoli",
+      "punkte": 4,
+      "energie": 8,
+      "hunger": 4,
+      "level": 1
+    },
+    {
+      "name": "Karotte",
+      "punkte": 2,
+      "energie": 4,
+      "hunger": 2,
+      "level": 1
+    },
+    {
+      "name": "Gurke",
+      "punkte": 5,
+      "energie": 10,
+      "hunger": 5,
+      "level": 1
+    },
+    {
+      "name": "Kohlrabi",
+      "punkte": 4,
+      "energie": 8,
+      "hunger": 4,
+      "level": 1
+    },
+    {
+      "name": "Schokolade",
+      "punkte": 15,
+      "energie": 25,
+      "hunger": 10,
+      "level": 1
+    },
+    {
+      "name": "Bonbon",
+      "punkte": 4,
+      "energie": 5,
+      "hunger": 5,
+      "level": 1
+    },
+    {
+      "name": "Kuchen",
+      "punkte": 30,
+      "energie": 50,
+      "hunger": 25,
+      "level": 1
+    },
+    {
+      "name": "Donut",
+      "punkte": 20,
+      "energie": 30,
+      "hunger": 15,
+      "level": 1
+    },
+    {
+      "name": "Keks",
+      "punkte": 15,
+      "energie": 45,
+      "hunger": 20,
+      "level": 1
+    },
+    {
+      "name": "Sushi",
+      "punkte": 15,
+      "energie": 20,
+      "hunger": 10,
+      "level": 1
+    },
+    {
+      "name": "Lachs",
+      "punkte": 4,
+      "energie": 5,
+      "hunger": 3,
+      "level": 1
+    },
+    {
+      "name": "Krabbe",
+      "punkte": 20,
+      "energie": 50,
+      "hunger": 25,
+      "level": 30
+    },
+    {
+      "name": "Wurst",
+      "punkte": 20,
+      "energie": 35,
+      "hunger": 20,
+      "level": 1
+    },
+    {
+      "name": "Hotdog",
+      "punkte": 35,
+      "energie": 50,
+      "hunger": 25,
+      "level": 1
+    },
+    {
+      "name": "Steak",
+      "punkte": 50,
+      "energie": 80,
+      "hunger": 40,
+      "level": 1
+    },
+    {
+      "name": "Milch",
+      "punkte": 5,
+      "energie": 10,
+      "hunger": 20,
+      "level": 0
+    }
+  ]
+}

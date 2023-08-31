@@ -1,0 +1,4 @@
+#Sun Jul 12 23:08:31 CEST 2020
+base.0=C\:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

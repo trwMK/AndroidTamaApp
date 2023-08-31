@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Pigotchi</string>
+    <string name="start_name">Ei</string>
+    <string name="spielstand">tamagotchispielstand</string>
+    <string name="nameTama">Name</string>
+    <string name="title_activity_evo_stufe_ei_wasser">EvoStufeEiWasser</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="anzeigexp">AnzeigeXP</string>
+    <string name="info_tama">INFO_TAMA</string>
+    <string name="evostufe1katze">EvoStufe1Katze</string>
+    <string name="energie">Energie</string>
+    <string name="buerste">Buerste</string>
+    <string name="herz">Herz</string>
+    <string name="hunger">Hunger</string>
+    <string name="evostufe1vogel">EvoStufe1Vogel</string>
+    <string name="evostufe1Fisch">evoStufeFisch</string>
+    <string name="evostufeeikatze">EvoStufeEiKatze</string>
+    <string name="evostufeeiwasser">EvoStufeEiWasser</string>
+    <string name="evostufeeivogel">EvoStufeEiVogel</string>
+    <string name="duschen">duschen</string>
+    <string name="schlafen">schlafen</string>
+    <string name="wc">wc</string>
+    <string name="spazieren">spazieren</string>
+    <string name="name">Name:</string>
+    <string name="punkte">Punkte</string>
+    <string name="xp">XP</string>
+    <string name="level">Level</string>
+    <string name="umbenennen">Umbenennen</string>
+    <!-- Profil-Tama Activity -->
+    <string name="tv_level">Level:</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_punkte">Punkte:</string>
+    <string name="tv_exp">EXP:</string>
+    <!-- Pflegen Activity -->
+    <string name="tv_pflegen">Pflegen:</string>
+    <string name="fadein">fadeIn</string>
+    <string name="fadeintwo" />
+    <string name="fadeintwothree" />
+    <string name="fadeinfour" />
+    <string name="fadeinfive" />
+    <!-- ShopActivity -->
+    <string name="tv_shoptitle">ESSENS SHOP</string>
+    <!-- SchlafenActivity -->
+    <string name="tv_energie">Energie:</string>
+    <string name="tv_hunger">Hunger:</string>
+</resources>

@@ -1,0 +1,894 @@
+[
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\plus.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_schlafen.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\schlafen.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_bg_spazieren2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_bg_spazieren2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_gif_spazieren3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_gif_spazieren3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch__evo_zwei_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch__evo_zwei_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_gif_schlaf3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_gif_schlaf3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo_2_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo_2_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_zwei_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_zwei_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_fisch_drei.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_fisch_drei.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_gif_spazieren2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_gif_spazieren2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_gelb_drei.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_gelb_drei.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_schlaf1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\schlaf1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_donut.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_donut.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_bg_spazieren1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_bg_spazieren1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_gelb_ein.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_gelb_ein.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_3_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_3_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tama_schlaf_null.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\tama_schlaf_null.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout\\activity_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_fisch_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_fisch_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout\\activity_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_katze_ein.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_katze_ein.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_plus_spazieren.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\plus_spazieren.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_schlafen_gif2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\button_schlafen_gif2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_herz.gif.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\herz.gif"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_vogel_anim_schlaf.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_vogel_anim_schlaf.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_schlaf2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\schlaf2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_buerste.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\buerste.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo_2_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo_2_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_kohlrabi.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_kohlrabi.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_evo_ei_wasser.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\evo_ei_wasser.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo_3_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo_3_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evolutionsstufe_1_vogel.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\evolutionsstufe_1_vogel.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_banane.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_banane.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_gif_spazieren2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_gif_spazieren2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_gif_schlaf1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_gif_schlaf1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_3_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_3_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_bg_spazieren3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_bg_spazieren3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo_drei_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo_drei_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\xml_my_backup_rules.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\xml\\my_backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_gif_spazieren1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_gif_spazieren1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_progressbar.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spazieren2nacht.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\spazieren2nacht.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundhimmer.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundhimmer.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_katzeschlaf_anim.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\katzeschlaf_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wc.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\wc.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spazeiren_challenge.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\spazeiren_challenge.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo_3_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo_3_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo_zwei_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo_zwei_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo_3_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo_3_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lowe1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\lowe1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_vogel_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_vogel_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_hintergrund_anim2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_hintergrund_anim2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_vogel_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_vogel_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo2_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo2_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hintergrund_neu.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\hintergrund_neu.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_schlafen_gif3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\button_schlafen_gif3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_kuchen.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_kuchen.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_starbackground.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\starbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_katze_drei.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_katze_drei.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_herzneu.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\herzneu.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_vogel.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_vogel.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_xp.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\xp.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_stufe2_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_stufe2_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_lowe2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\lowe2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_steak.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_steak.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_gelb_zwei.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_gelb_zwei.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_evolutionsstufe_1_fisch.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\evolutionsstufe_1_fisch.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo_2_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo_2_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_evo_fisch_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\evo_fisch_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo_3_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo_3_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_activity_shop.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout-v21\\activity_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo2_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo2_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_vogel_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_vogel_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_hintergrund_anim1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_hintergrund_anim1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_erdbeere.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_erdbeere.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_gif_schlaf2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_gif_schlaf2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_katze.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_katze.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spazieren1nacht.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\spazieren1nacht.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_gif_schlaf2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_gif_schlaf2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_brocolli.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_brocolli.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo3_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo3_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo_2_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo_2_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_3_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_3_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_shopping_cart.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\shopping_cart.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hintergrundeii_spazieren_anim.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\hintergrundeii_spazieren_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spazieren.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\spazieren.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_pflegen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout\\activity_pflegen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spazieren2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\spazieren2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo3_anim_schlaf.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo3_anim_schlaf.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_herztama.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\herztama.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_sushi.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_sushi.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_hintergrund_anim1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_hintergrund_anim1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo_2_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo_2_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo_3_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo_3_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_schokolade.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_schokolade.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hunger.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hunger.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evolutionsstufe_2_fisch.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\evolutionsstufe_2_fisch.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_gif_schlaf3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_gif_schlaf3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\plus2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_gif_schlaf2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_gif_schlaf2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch__evo_drei_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch__evo_drei_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundwald_anim1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundwald_anim1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo_3_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo_3_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_2_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_2_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_katze_zwei.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_katze_zwei.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo2_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo2_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\anim_fade.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_apfel.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_apfel.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\plus3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundvogel_anim.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundvogel_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_katze_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_katze_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_hintergrundeii_spazieren_anim_nacht.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\hintergrundeii_spazieren_anim_nacht.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evolutionsstufe_3_vogel.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\evolutionsstufe_3_vogel.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo3_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo3_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundwald_anim2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundwald_anim2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_gif_schlaf1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_gif_schlaf1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_bg.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_gif_schlaf1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_gif_schlaf1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_2_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_2_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_wurst.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_wurst.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_gurke.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_gurke.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_katze_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_katze_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo2_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo2_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_fisch_ein.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_fisch_ein.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_drei_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_drei_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo3_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo3_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_karotte.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_karotte.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_lachs.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_lachs.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_krabbe.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_krabbe.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_fisch_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_fisch_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spazieren1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\spazieren1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evolutionsstufe_3_fisch.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\evolutionsstufe_3_fisch.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_gif_spazieren1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_gif_spazieren1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundwald_anim3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundwald_anim3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_2_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_2_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_anim_schlaf.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_anim_schlaf.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus4.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\plus4.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_hintergrund_anim2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_hintergrund_anim2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundwasser_neu.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundwasser_neu.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo_stufe2_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo_stufe2_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\plus1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo_3_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo_3_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo2_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo2_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo3_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo3_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze__evo_2_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze__evo_2_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_set_name.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout\\activity_set_name.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_vogel_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_vogel_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_evo3_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_evo3_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_evo_ei_vogel.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\evo_ei_vogel.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_gif_schlaf3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_gif_schlaf3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_pflegen.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\bg_pflegen.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_evo_ei_katze.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\evo_ei_katze.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_milch.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_milch.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_fisch_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_fisch_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_hintergrund_anim3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_hintergrund_anim3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_energiegif.gif.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\energiegif.gif"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_katze_schlaf_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_katze_schlaf_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_info.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\info.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_shop.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout\\activity_shop.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo2_anim_schlaf.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo2_anim_schlaf.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evolutionsstufe_1_katze.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\evolutionsstufe_1_katze.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_hintergrund_anim4.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_hintergrund_anim4.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_katze_anim_spazieren.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\katze_anim_spazieren.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_duschen.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\duschen.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profil_tama.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\layout\\activity_profil_tama.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ei_fisch_zwei.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\ei_fisch_zwei.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_keks.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_keks.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_schlaf_anim.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\schlaf_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundhimmer_neu.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundhimmer_neu.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo_2_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo_2_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo_2_schlaf_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo_2_schlaf_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_hintergrund_anim3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_hintergrund_anim3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_starsbackground.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\starsbackground.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_evo_katze_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\evo_katze_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evolutionsstufe_1_fisch.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\evolutionsstufe_1_fisch.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_evolutionsstufe_2_vogel.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\evolutionsstufe_2_vogel.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundfisch_anim.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundfisch_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_home.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\home.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo3_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo3_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_katze_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_katze_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_anim_schlafen.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\button_anim_schlafen.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_hintergrund_anim4.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_hintergrund_anim4.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_evo2_1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_evo2_1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundkatze_anim.xml.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundkatze_anim.xml"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_fisch_schlaf_2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_fisch_schlaf_2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_vogel_gif_spazieren1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\vogel_gif_spazieren1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_hintergrundwaldneu.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\hintergrundwaldneu.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_birne.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_birne.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_fisch_evo3_3.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\fisch_evo3_3.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_schlafen_gif1.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\button_schlafen_gif1.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_bonbon.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_bonbon.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_plus5.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\plus5.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_essen_hotdog.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\essen_hotdog.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_katze_gif_spazieren2.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\katze_gif_spazieren2.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ei_fisch.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable-v24\\ei_fisch.png"
+    },
+    {
+        "merged": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\build\\intermediates\\res\\merged\\debug\\drawable_shopbg.png.flat",
+        "source": "C:\\Users\\mikek\\Desktop\\Hochschule\\4semester\\AndroidSDK\\tamagotchi-projekt\\app\\src\\main\\res\\drawable\\shopbg.png"
+    }
+]
